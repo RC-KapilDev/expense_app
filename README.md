@@ -1,6 +1,7 @@
 # expense_app
 
-It an expense app where you can track all your expense  and  with a Home screen animation which shows the level of expense in each category makes it more easy where we spend more
+
+you can track all your expenses and with a Home screen animation which shows the amount of expense in each category makes it more easy to track where we spend more
 
 ## Getting Started
 <table>
