@@ -1,8 +1,22 @@
 # expense_app
 
-A new Flutter project.
+It an expense app where you can track all your expense  and  with a Home screen animation which shows the level of expense in each category makes it more easy where we spend more
 
 ## Getting Started
+<table>
+    <thead>
+      <tr>
+        <th><img src='redmeimg\page1.jpg' width=300 height=550>
+          </th>
+        <th><img src='redmeimg\page2.jpg' width =300 height=550></th>
+        <th><img src='redmeimg\page3.jpg' width =300 height=550></th>
+      </tr>
+    </thead>
+
+
+![](redmeimg\page1.jpg)
+![](redmeimg\page2.jpg)
+![](redmeimg\page3.jpg)
 
 This project is a starting point for a Flutter application.
 
