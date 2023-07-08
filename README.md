@@ -15,21 +15,34 @@ Category Management: Expense Manager offers pre-defined expense categories, but 
 
 Detailed Expense Reports: Dive deeper into your expenses with detailed reports that provide insights into your spending by category, timeframe, or specific expense types. Analyze your expenses and identify trends to help you make more informed financial choices.
 
-## Getting Started
-<table>
-    <thead>
-      <tr>
-        <th><img src='redmeimg\page1.jpg' width=300 height=550>
-          </th>
-        <th><img src='redmeimg\page2.jpg' width =300 height=550></th>
-        <th><img src='redmeimg\page3.jpg' width =300 height=550></th>
-      </tr>
-    </thead>
+<!DOCTYPE html>
+<html>
+<head>
+ </head>
+<body>
+  <table>
+    <tr>
+      <th></th>
+      <th></th></th>
+  </tr>
+    <tr>
+      <td data-label="Column 1"><img src='redmeimg\page1.jpg' ></td>
+      <td data-label="Column 2"><img src='redmeimg\page2.jpg' ></td>
+    <td data-label="Column 2"><img src='redmeimg\page3.jpg' ></td>
+    </tr>
+  </table>
+</body>
+</html>
+
+
 
 
 ![](redmeimg\page1.jpg)
 ![](redmeimg\page2.jpg)
 ![](redmeimg\page3.jpg)
+
+## Getting Started
+
 
 This project is a starting point for a Flutter application.
 
