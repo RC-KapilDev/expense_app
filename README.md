@@ -22,20 +22,18 @@ Detailed Expense Reports: Dive deeper into your expenses with detailed reports t
 <body>
   <table>
     <tr>
+     <th></th>
       <th></th>
       <th></th></th>
   </tr>
     <tr>
       <td data-label="Column 1"><img src='redmeimg\page1.jpg' ></td>
       <td data-label="Column 2"><img src='redmeimg\page2.jpg' ></td>
-    <td data-label="Column 2"><img src='redmeimg\page3.jpg' ></td>
+    <td data-label="Column 3"><img src='redmeimg\page3.jpg' ></td>
     </tr>
   </table>
 </body>
 </html>
-
-
-
 
 ![](redmeimg\page1.jpg)
 ![](redmeimg\page2.jpg)
